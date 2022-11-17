@@ -39,7 +39,9 @@ can be found in the [VTAB paper](https://arxiv.org/abs/1910.04867).
 
 ## Installation
 
-You can install the library and all necessary dependencies by running:
+`pip install task_adaptation`
+
+For development you can install the library and all necessary dependencies by running:
 `pip install -e .` from the `task_adaptation/` folder.
 
 ## Dataset preparation
